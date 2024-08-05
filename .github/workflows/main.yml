@@ -1,1 +1,2 @@
 --platform=linux/arm64 grafana/grafana:10.0.0
+grafana/grafana:10.0.0
